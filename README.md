@@ -1,0 +1,1 @@
+Detect macOS Universal Binaries
